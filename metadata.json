@@ -1,0 +1,6 @@
+{
+  "name": "Portal Data Populasi Malaysia",
+  "description": "Dashboard Interaktif Statistik Penduduk Malaysia berpandukan dataset rasmi Jabatan Perangkaan Malaysia (DOSM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
